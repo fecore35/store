@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5",
+    "title": "Test initialState product",
+    "price": 50,
+    "image": "https://om-beauty.com/wp-content/uploads/2015/11/product-img-1.jpg"
+  },
+  {
+    "id": "6",
+    "title": "An ice sculpture",
+    "price": 60,
+    "image": "https://om-beauty.com/wp-content/uploads/2015/11/product-img-1.jpg"
+  },
+  {
+    "id": "7",
+    "title": "A blue mouse",
+    "price": 70,
+    "image": "https://om-beauty.com/wp-content/uploads/2015/11/product-img-1.jpg"
+  },
+  {
+    "id": "8",
+    "title": "A blue mouse",
+    "price": 80,
+    "image": "https://om-beauty.com/wp-content/uploads/2015/11/product-img-1.jpg"
+  }
+]
